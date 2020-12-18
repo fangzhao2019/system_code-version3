@@ -1,0 +1,265 @@
+*********************
+最不满意	动力 油耗 ! ! 这 可能 是 哈弗 永远 逃避 不了 的 问题	n n x x r v v nr d v v uj n	0 0 0 -1 0 -1 0 0 0 0
+性价比	性价 也 还算 可以 , 我 当时 看车 的 时候 听 里面 的 销售 顾问 说 这款 车刚 上市 个 月 就 卖 了 20000 台 , 我 自己 感觉 在 这个 价格 买 到 这样 的 车 我 也 还算 满意 了 , 毕竟 分 价钱 分货 , 我家 用 也 不 需要 太 好 的 车 。 正常 代步 上下班 油耗 低 就 可以 了	n d v c x r t v uj n v f uj vn nr v r nr ns m m d v ul m ns x r r n p r n v v r uj n r d v v ul x d v n n x r p d d v d a uj n x d n v n a d c ul	0 0 0 1 0 0 0 0 0 0
+最不满意	最 不 满意 , 五十万 的 车 , 座椅 你 他 妈 是 仿皮 , 奔驰 就 那么 在意 那 点 小钱 ? 还有 这 车 刹车 偏软 , 不是 我 喜欢 的 那种 类型 。 买 这车 也 别说 什么 性价 了 , 美国 售价 低 配 25 万 人民币 左右 , 就是 喜欢 就 买 了 。	d d v x m uj n x n r r n v n x v d r v r q n x v r zg n a x c r v uj r n x v r d c r n ul x ns n a v m m n m x d v d v ul x	0 -1 0 0 0 0 -1 0 -1 0
+操控	后 悬挂 最 让 我 遗憾 的 就是 没有 独立 悬挂 ! 确实 在 过 减速带 的 时候 、 很 是 不 舒服 !	f v d v r a uj d v v v x ad p t n uj n x d v d a x	0 0 0 0 0 0 -1 0 0 0
+最不满意	后备箱 有点 小 。 4s店 送 的 东西 不太好 ! 价格 没 便宜 !	n n a x n v uj ns v x n v a x	0 0 -1 0 0 0 0 0 0 0
+最不满意	些小 的 细节 还有 待 加强 , 如 车身 零件 间 的 缝隙 有点 大 , 细看 的话 , 还 略显 粗糙 , 而且 新车 刚 买回来 的 时候 有些 异味 , 过 了 阵才 散掉 。	a uj n v v v x v n mq f uj n n a x v u x d v a x c n d l uj n r n x ug ul n v x	0 0 0 0 0 0 0 -1 0 0
+最不满意	噪声 的 处理 不是 很 恰当 , 时而 会 感觉 车身 轮胎 与 地面 有 轻微 的 摩擦 声 , 砂砂 的 那种 听 着 不 太 舒服 。 因为 我 平常 工作 原因 跑 高速 的 时间 较 多 对 这些 细微 的 声音 就 非常 敏感 , 有时候 跟 朋友 换 着 开车 想 好好 休息 都 按 耐不住 这些 小 细节 , 8 有 听听 歌 缓解 缓解 躺 会儿 了 。	n uj v c zg d x d v n n n p n v d uj vn n x n uj r v uz d d a x c r a vn n v d uj n d m p r a uj n d d a x l p n v uz v v d v d p l r a n x m v v n v v v n ul x	0 0 0 0 0 0 0 -1 0 0
+最不满意	基本上 没 啥 不 满意 的 地方 , 如果 真 要说 的话 那 就是 胎 噪 吧 , 有点 大 , 不过 这 价位 咱 也 不能 要求 那么 高 是 吧 。	n d r d v uj n x c d c u r d q ng y x n a x c r n r d v v r a v y x	0 0 0 0 0 0 0 -1 0 0
+最满意	油耗 , 目前 市区 8. 到 9 个 。 关键 才 跑 200 公里 啊 , 首 保 后 应该 还 会 降	n x t n m v m m x n d v m q zg x m v f v d v v	0 0 0 1 0 0 0 0 0 0
+内饰	这个 看 个人 喜好 , 我 是 喜欢 这种 简约 的 北欧 风 , 我 老婆 说 她 喜欢 温馨 的 。	r v n v x r v v r d uj ns n x r n v r v nr uj x	0 1 0 0 0 0 0 0 0 0
+最不满意	洗车 时 尾灯 和 日间行车灯 会 起 雾 网络 有 掉 网 的 情况	n n n c n v v n n v v n uj n	0 0 0 0 0 0 0 0 0 0
+最满意	刚 进 4S店 , 就 被 外观 的 设计 吸引 , 小型 的 SUV 非常 实用 , 价格 也 不贵 。 黑色 的 内饰 也 非常 喜欢 。 动力 也 足够 用 , 换挡 平顺 。 起步 适中 , 当然 也 较 省油 。	d v n x d p n uj vn v x b uj eng d v x n d a x n uj n d d v x n d v p x v nr x d v x d d d n x	1 1 0 1 0 1 0 0 0 0
+操控	个人 偏好 操控 , 所以 选 了 手动 的 , 说起 操控 , 这款 还 真不错 , 6 速 手动 , 给 力 , 向 有 飙车 习惯 , 虽然 不是 跑车 , 但 高速 跑 百 四五 , 轻轻松松 , 估计 还 不到 千 转 , 底盘 也 妥妥 的 , 丝毫 不会 让 乘车 的 人 感觉 自己 超速 不 8 点点 了	n d v x c v ul n uj x v v x r d i x m n n x p n x p v v n x c c n x c d v m m x z x v d v m v x n d a uj x m v v n uj n n r v c m n ul	0 0 0 0 0 0 1 0 0 0
+最不满意	目前 用车 3600 公里 了 , 还 没 发现 什么 不 满意 的 地方	t n m q ul x d v v r d v uj n	0 0 0 0 0 0 0 0 0 0
+最不满意	最 不 满意 的 就是 国人 对 自主 品牌 还是 有点 歧视 , 还 在 老旧 的 观点 , 现在 的 自主 品牌 已经 是 突飞猛进 的 。	d d v uj d n p v n c n v x d p z uj n x t uj v n d v i uj x	0 0 0 0 0 0 0 0 0 0
+舒适性	舒适感 很 好 , 没有 很 明显 的 顿挫 感	nr d a x v zg a uj v v	0 0 0 0 0 0 0 1 0 0
+最满意	最 满意 的 是 瑞虎8 空间 大 , 价格合理 , 动力 强劲 ! 前排 后排 座椅 空间 都 够 宽 。 后备箱 空间 够 大 ! 车辆 底盘 高稳 , 走 乡间 道 够 稳 , 不 颠簸 。 家里 的 老人 都 觉得 这 车子 不赖 。 车内 的 内饰 搭配 合理 , 中控台 特别 炫酷 , 真的 可以 说 是 高端 大气 上档次 了 。	d v uj v n n a x n x n a x v vn n n d v a x n n v a x n n a x v n q v a x d v x s uj n d v r n v x s uj n v vn x nt d a x d c v v n n b ul x	0 1 1 0 0 1 0 1 1 0
+内饰	内饰 不错 把 黑棍 取消 就 好 了 座椅 舒适度 很 不错	n a p n v d a ul n n zg a	0 1 0 0 0 0 0 1 0 0
+外观	外观 靓丽 霸气 , 线条 光滑 。 白 颜色 在 阳光 下 好好看 。 把 同事 们 买 的 合资 车 都 下去 了 不少 。	n a n x n a x a n p nr f a x p n k v uj vn n d t ul d x	1 0 0 0 0 0 0 0 0 0
+最不满意	手动档 没有 尊贵 版 。 要是 能 结合 新帝豪 百万 款 的 部分 优点 就 好 了 。 如 百万 款 那个 示 宽 灯 很漂亮 , 还 带 隔热玻璃	b v a n x c v v n m n uj n n d a ul x v m m r vg a n n x d v n	0 -1 0 0 0 0 0 0 0 0
+最不满意	档 顿挫 明显 , 内饰 奇丑无比 ( 橙色 ) , 就 不能 棕色 和 黑色 ? 储物格 太少 , USB 接口 反 人类 , 触屏 空调 调节 简直 就是 最大 安全隐患 ( 最 不 满意 ) ! 驾驶室 侧 无 小 储物柜 , A 柱 盲区 有些 大 , 方向盘 39 点 太粗 了 , 不 方便 按 喇叭 , 外观 钣金 拼缝 较大 , 副驾驶 有 共振 异响 , 底盘 过滤 小 颠簸 较差 !	n v a x n i x n x x d v n c n x n nr x eng v zg n x n n vn d d a i x d d v x x n v v a n x eng nz n r a x n m m n ul x d a p n x n n v a x v v n n x n v a v a x	-1 -1 0 0 0 0 -1 -1 -1 0
+最满意	性 价高 , 视野 好 , 转向 灵活 , 起步 有力 , 油耗 适中 , 空间 合理 , 适合 新手 练习	n n x n a x v a x d n x n v x n vn x v n v	0 0 1 1 0 1 1 0 0 0
+最不满意	不 满意 的 就是 后排 没有 出风口 还有 就是 中间 没有 头枕	d v uj d vn v n v d f v n	0 0 0 0 0 0 0 -1 0 0
+内饰	内饰 用料 基本 是 塑料 , 这个 价位 就别 奢求 了 。 不过 整体 及 座椅 颜色 搭配 合理 , 质量 还 行 , 异味 半个 月 吧 , 就 差不多 没 了 。 多功能方向盘 、 多媒体 带 导航 带 倒车影像 、 自动 空调 、 全景天窗 、 电动 座椅 等等等等 , 不过 多 挑剔 了 。	n n n v n x r n d n ul x c n c n n v vn x n d zg x n m m y x d l v ul x n x n v v v n x vn n x n x n n b x c m v ul x	0 1 0 0 0 0 0 0 1 1
+最不满意	最 不 满意 的 就 去 购车 的 气氛 , 人 太 多 了 , 说话 嗡嗡 的 , 把 我 的 脑子 吵 的 特别 大 , 不 知道 为啥 人 这么 多 , 去 别的 4s店 也 没 这样 啊 , 人 特别 少 特别 安静 , 觉得 环境 特别 好 , 都 能 呆 睡着 了 , 在 宝骏 4s店 想 安静 的 呆会 都 成 了 奢侈 。	d d v uj d v n uj n x n d m ul x v o uj x p r uj n v uj d a x d v r n r m x v r n d v r zg x n d a d nr x v n d a x d v v v ul x p nr n v nr uj n d v ul a x	0 0 0 0 0 0 0 0 0 0
+最不满意	国产车 的 通病 , 车子 的 减震器 很硬 , 减震 功能 不 佳 , 车子 的 减震 效果 在 个 减速带 就 可以 充分体现 , 爱车 通过 石子路 或者 是 减速带 , 带有 很大 的 车子 共振 , 明显 的 颠簸 。	n uj n x n uj n a x v n d a x n uj v n p m n d c v x n p nr c v n x v a uj n n x a uj v x	0 0 0 0 0 0 0 -1 0 0
+操控	方向盘 感觉 稍微 有点 虚位 , 几厘米 , 其他 的 目前 没有 啥 问题	n n d n n x m x r uj t v r n	0 0 0 0 0 0 -1 0 0 0
+最不满意	前排 中控 的 储物 空间 也 太少 了 吧 , 8 能 把 前面 那个 小 储物格 的 杯座 件 拆 了 才能 轻松 放入 部 水果 手机 跟 钥匙 , 不然 很多 时候 坐 上 车里 关上 钥匙 跟 电话 都 不 知道 放 哪里 才 舒心 。 还有 就是 倒车 时候 会 有 口哨声 异响 , 这个 问题 打算 首保 的 时候 开 过去 解决 下	v j uj n n d nr ul y x m v p f r a n uj n q v ul v a v n n n p n x c m n v f s s n p n d d v v r d a x v d v n v v n n x r n v j uj n v t v f	0 0 -1 0 0 0 -1 0 0 0
+性价比	个 字 : 高 ! 选装 配置 : 特别 提 下 后备箱 衣物 隔板 , 太 难 拆卸 了 , 又 硬 , 用 了 两个 月 就 坏 了 , 8 能 自己 换装 个 遮 物帘 , 这点 应该 好好 改善 下 。	m n x a x v v x d v f n n n x d a v ul x d a x p ul m m d a ul x m v r v m v n x mq v d v f x	0 0 0 0 0 0 0 0 -1 0
+最不满意	后排 中间 位置 坐 大人 有点 局促 。 车 联网 APPBUG 很多 , 很多 BUG 很 明显 , 但 直 没有 修复 。 没有 自动 自动 尾 , 有点 掉 档次 呢 。	vn f v v n n v x zg nz eng m x m eng d a x c ad v v x v vn vn n x n zg n y x	0 0 -1 0 0 0 0 0 -1 0
+最不满意	驾驶 位 储物 空间设计 不 太 合理 , 手机 没有 合适 的 地方 放	v q n n d d vn x n v a uj n v	0 0 0 0 0 0 0 -1 0 0
+动力	起步 真是 够 了 , 声音 难听 , 转速 高 , 撕心裂肺 的 感觉 很 不爽 , 这辈子 都 不 买 手动 的 了 。 加速 表现 : 3 档 以后 就 很 不错 了 , 总体 来说 动力 在 市内 行驶 完全 够用 。	d d v ul x n v x v a x l uj n zg a x l d d v n uj ul x v v x m n f d d a ul x n u n p s v ad v x	0 0 0 0 0 -1 0 0 0 0
+操控	转向 很 好 , 悬挂 技术 成熟 , 地盘 调教 满意 , 现在 没有 发现 什么 异响 !	v d a x v n a x n nz v x t v v r n x	0 0 0 0 0 0 1 0 0 0
+最不满意	其实 也么 有 不 满意 , 这个 价位 买车 , 我 是 比较 看中 空间 动力 配置 的 。 这个 车 就是 80 迈过 弯 不如 轿车 马自达 好 开 也许 车 比较 高 吧 我 开车 比较 猛 喜欢 操控 强点	d d v d v x r n n x r v d v n n v uj x r zg d m v v c n nrfg a v d zg d a y r v d d v v n	0 0 1 0 0 1 1 0 1 0
+最不满意	最 不 满意 的 地方 就是 后备箱 有点 空间 小 。 还有 就是 决定 有点 硬 。 风 噪胎 噪 稍微 有点 大 。 其他 感觉 都 还好 。	d d v uj n d n n n a x v d v n a x n n n d n a x r n d v x	0 0 -1 0 0 0 0 -1 0 0
+其它描述	今天 在 老马 家 买 了 些 装饰品 , 4 S 送 的 东西 也 不错 , 满意 。 东风 日产 的 4S店 销售 及 售后 人员 整体素质 还 不错 , 感觉 比 其他 厂家 略 高 些 。 没有 ESP 是 硬伤 啊 ! 同价位 车型 许多 都 标配 了 ESP , 但是 日产 这点 做 的 不是 很 好 , 要 指出 来 批评 ! !	t p n m v ul q n x m eng v uj ns d a x v x n j uj n vn c n n n d a x n p r n d a q x v eng v n zg x n n m d vn ul eng x c j mq v uj c d a x v v v v x x	0 0 0 0 0 0 0 0 -1 0
+最满意	最 满意 的 点 应该 就是 领克02 的 操控 了 , 得益于 它 优秀 的 调校 和 各种 丰富 的 实用 配置 , 让 它 开 起来 特别 的 轻松自在 , 动力 方面 也 是 比较 的 强劲 , 就算 是 要 来 点 激情 的 驾控 也 完全 不是 问题 , 各类 的 调校 均 均衡 又 出色 , 绝对 是 好 开 又 安全 。	d v uj m v d n uj v ul x v r a uj n c r a uj v v x v r v v d uj b x n n d v d uj a x v v v v q n uj j d ad c n x r uj n d a d v x d v a v d an x	0 0 0 0 1 1 1 0 0 0
+舒适性	车辆 的 舒适性 我 觉得 没 毛病 , 不但 皮质 座椅 坐 着 舒服 , 而且 包裹 性 不错 。 车内 静音 绝 了 那 是 我 吹 的 , 坐在 车里 , 居然 听 不到 发动机声音 。 我 也 是 佩服 佩服 。	n uj nr r v v n x c n n v uz a x c v n a x s n d ul r v r v uj x v s x d v v n x r d v v v x	0 0 0 0 0 0 0 1 0 0
+最满意	沿着 西安 环城 高速 跑 圈 , 车上 坐 4 个人 , 提速 很快 , 很 轻易 就 跑 到 120 , 车内 杂音 很小 , 兄弟 几个 人 在 车里 有说有笑 , 点 都 不 影响 气氛 。 空调 也 很 给 力 , 音乐 响起 , 听 着 听 着 兄弟 们 几乎 快 睡着 了 。 空间 也 可以 , 几个 人 坐在 里面 点 也 感觉 不到 拥挤 。 驾驶 操控 感 也 很 好 , 感觉 很 舒服	p ns n d v q x s v m n x v d x zg a d v v m x s n a x n m n p s l x m d d vn n x n d d p n x n v x v uz v uz n k d a v ul x n d c x m n v f m d n v v x v v vg d d a x n zg a	0 0 1 0 0 0 1 1 1 0
+最不满意	才 来 100 公路 , 目前 各 方面 都 很 好 !	d v m n x t r n d d a x	0 0 0 0 0 0 0 0 0 0
+最不满意	暂时 没有 特别 不 满意 的 , 如果 定 要说 的话 , 就是 人机 速度慢 了 点 , 别率 还 不是 太 高 。	d v d d v uj x c v c u x d n n ul m x n d c d a x	0 0 0 0 0 -1 -1 0 0 0
+最不满意	硬 要说 个 不 满意 的 地方 的话 , 就是 车机 总是 在 误报 , 如 有 脏东西 到 摄像头 的 时候 , 就 会 误报 , 其实 电子 类 的 产品 , 重 都 能 解决 90 % 的 问题 。	a c m d v uj n u x d n c p n x v v n v n uj n x d v n x d n q uj n x a d v v m x uj n x	0 0 0 0 0 0 0 0 0 -1
+故障	车子 大 故障 到 时 没有 , 就是 车机 有点 反应 慢 , 而已 有时候 乱 显示 一些 小 故障	n a n v ng v x d n n vn a x y l d v m a n	0 0 0 0 0 0 0 0 0 -1
+最不满意	车机 经常出现 报错 , 避震 不好 , 需要 改装 下 。 不 耐脏 , 上午 洗车 下午 就 层 灰 。 APP 经常 不 同步 , 误报 , 仪表盘 车机 误报 。	n vn v x n d x v v f x d n x t n t d q n x eng d d d x n x n n n x	0 0 0 0 0 0 0 0 0 -1
+吐槽	这个 车 买 的 挺 满意 的 。 也 是 我 人生 第一辆 车	r n v uj v v uj x d v r n m zg	0 0 0 0 0 0 0 0 0 0
+油耗	油耗 方面 自己 还是 得意 了回 , 自己 跑 了 5000 公里 , 除了 上下班 代步车 以外 , 自己 跑 的 最多 就是 乡镇 的 路面 把 , 没有 什么 高速 路段 , 不过 我 的 油耗 直 是 控制 再 7 格 左右 , 自己 买 的 是 自动挡 的 车 , 油耗 方面 感觉 还是 较 满意 的 , 加上 自己 的 驾驶 习惯 也 是 般 。	n n r c v v x r v ul m q x p v n c x r v uj a d n uj n p x v r d n x c r uj n d v v d m nr m x r v uj v i uj n x n n n c zg v uj x v r uj v n d v u x	0 0 0 1 0 0 0 0 0 0
+空间	第排 的 座椅 可以 放平 是 比较 好 的 点 , 有时候 去 野游 , 放辆 自行车 在 后排 , 爽歪歪 , 不 费力 。 放小 部件 的 地方 也 比较 多 , 总体 来说 , 空间 这块 比较满意 !	m uj n c nrfg v d a uj m x l v n x n n p vn x i x d n x v n uj n d d m x n u x n r l x	0 0 1 0 0 0 0 1 0 0
+最不满意	目前 还 真 没有 最 不 满意 的 地方 , 如果 要说 的话 还 就是 换 了 个 免费 的 分离 轴承 。 吉利 厂家 对 消费者 来说 确实 挺 负责 任的 , 这 就是 作为 个 企业 应该 要 做 的 而且 值得 其他 企业 去 学习 。	t d d v d d v uj n x c c u d d v ul q vn uj v n x ns n p n u ad d v r x r d v q n v v v uj c v r n v v x	0 0 0 0 0 0 0 0 0 0
+最满意	价格 美丽 , 颜值 耐看 , 开 起来 舒服 , 空间 符合 我 的 要求 , 够 大 , 作为 老 奇瑞 车主 对 奇瑞 品质 的 信任 。 现在 车 开 了 13 天 , 整体 感受 比 我 预期 要 好 , 选 胡巴 不 后悔 !	n ns x n a x v v a x n v r uj v x v a x v a nz n p nz n uj n x t n v ul m n x n v p r vn v a x v nr d v x	1 0 1 0 0 0 0 1 1 0
+最不满意	小 的 细节 问题 厂家 做 的 不 到位 , 比如 各位 网友 说 的 皮带 外露 , 还有 现在 这个 年代 厂家 还 用有 骨雨 刮 , 而且 全系 没有 前雾灯 … … 对了 还有 车载 影像 不好 用 , 该 有 的 功能 都 没有 还要 手机 连接 才 可以 用 , 而且 比较 麻烦 , 有 的 手机 居然 还 连接 不了 … … 希望 厂家 改进 !	a uj n n n v uj a v x v r n v uj n v x v t r t n d v n v x c n v n x x p v n vn d p x r v uj n d v c n v d c p x c d an x v uj n d d v v x x v n v x	0 0 0 0 0 0 0 0 -1 0
+油耗	瑞虎3 的 油耗 我 是 比较满意 的 。 大约 7 个 左右 , 没有 仔细 算 。 可能 是 最近 油价 “ 十连 跌 ” 吧 。 我 是 手动档 啦 。 过 了 磨合 以后 , 听说 还 会 降点 。 不 知道 啊 。 反正 SUV , 这个 油耗 已经 算 很 不错 的 了 。	n uj n r v l uj x d m m m x v ad v x v v f n x d v x y x r v b y x ug ul v f x v d v n x d v zg x d eng x r n d v d a uj ul x	0 0 0 1 0 0 0 0 0 0
+外观	本人 感觉 外观 还 可以 , 毕竟 人人 的 喜好 不同 ! 就是 看中 奇瑞 的 厚道 , 感觉 用料 还是 不错 的	r n n d c x d n uj v a x d v nz uj n x n n c a uj	1 0 0 0 0 0 0 0 0 0
+外观	外观 是 最 满意 的 , 设计 很 流畅 大气 , 没有 多余 之笔 , 简洁 大气 。 全自动 智能 前后 大灯 造型 犀利 帅气 。	n v d v uj x vn zg a n x v m r x a n x nz n f n n a n x	1 0 0 0 0 0 0 0 0 0
+舒适性	中规中矩 吧 , 买菜 车 还 想 咋 滴 , 要 什么 大 沙发 呢 。	l y x n n d v r v x v r a nz y x	0 0 0 0 0 0 0 0 0 0
+最不满意	挂挡 ! 1 档 挂 2 档 受不了 , 相当 难受 , 挂 档 的 时候 心里 老 咯噔 了 ? 这点 希望 有所改进 。	v x m n v m n l x d v x v n uj n s a o ul x mq v l x	0 0 0 0 0 0 -1 -1 0 0
+最不满意	最 不 满意 的 就是 方向盘 , 方向盘 , 方向盘 , 为什么 不 改 呢 , 为什么 , 真的 很 难看 啊 ! 你们 说 的 空间 不 满意 , 但是 我 没 感觉 , 车里 坐 5 个人 不会 觉得 拥挤 啊 , 后备箱 的 空间 日常 家居 足矣 !	d d v uj d n x n x n x r d v y x r x d zg v zg x r v uj n d v x c r d n x s v m n v v v zg x n uj n d n i x	0 0 1 0 0 0 -1 0 0 0
+最满意	多余 的话 不 说 了 , 就是 个 好 , 个 价位 没有 啥 不 满意 的	m u d v ul x d m a x q n v r d v uj	0 0 0 0 0 0 0 0 1 0
+舒适性	没有 对 就 没有 伤害 , 还是 我 的 机车 舒服 , 哈哈 座椅 特别 舒服 , 软软 的 ! 包裹 性 也 挺 好 ! 现在 都 睡不着 , 就 像 明天 早晨 开车 的 感觉 , 瘾 了 。	v p d v a x c r uj n a x o n d a x a uj x v n d d a x t d v x d v t t v uj n x n ul x	0 0 0 0 0 0 0 -1 0 0
+最不满意的点	扶手箱 够 不到 , USB 口 8 有个 。	n zg v x eng n m r x	0 0 0 0 0 0 0 -1 0 0
+内饰	内饰 看 去 非常 高大 , 不仅 用料 讲究 , 而且 做工 方面 非常 好 , 车内 的 异味 很轻 。 配置 方面 挺 丰富 的 , 屏幕 大 适中 , 功能 也 非常 的 齐全 , 这款 车 屏幕 的 灵敏度 还是 非常 不错 的 , 在 开车 过程 中 使用 也 是 较 方便 的 , 多功能方向盘 实用性 很 好 。	n v v d a x c n vn x c v n d a x s uj n a x v n d a uj x n a v x n d d uj nr x r zg n uj n c d a uj x p v n f v d v d a uj x n n d a x	0 1 0 0 0 0 0 0 1 0
+内饰	内饰 质感 非常 不错 , 中控 都 是 软质 材料 , 材料 不是 太软 , 浓浓的 性 淡 风 , 中控 中间 的 接缝处 缝隙 有点 大 , 左右 两边 大 还 不致 。	n n d a x j d v n n x n c a x z n a n x j f uj v n n a x m f a d c x	0 1 0 0 0 0 0 0 -1 0
+最不满意	空间 没 得 想象 中大 , 但是 运动型 勒 车 嘛 , 有 了 线条 难免 要 牺牲 空间 了	n v ud n nt x c n v n y x v ul n d v v n ul	0 0 0 0 0 0 0 0 0 0
+最满意	油耗 应该 是 我 最 满意 的 吧 6 个油 的 车 应该 挺 难 找	n v v r d v uj y m n uj n v d a v	0 0 0 1 0 0 0 0 0 0
+最不满意	引擎盖 过 高 , 前 右角 视野 不是 很 好	n ug a x f n n c d a	0 0 0 0 0 0 0 0 -1 0
+最不满意	油耗 高 , 不能 自动 启停 , 不能 自动 升 车窗	n a x v vn v x v vn zg n	0 0 0 -1 0 0 0 0 -1 0
+性价比	这辆 车 的 性价比 还是 挺 高 的 , 倒车影像 、 液晶 的 大屏 还有 倒车雷达 , 铝合金轮毂 , 这些 配置 都 有 了 , 虽然 这些 配置 比较 常见 , 想想 不高 的 售价 觉得 性价比 还 不错 。	mq n uj n c d a uj x n x n uj n v n x n x r v d v ul x c r v d a x v a uj n v n d a x	0 0 0 0 0 0 0 0 1 0
+性价比	对得起 这个 价格 虽然 比 其他 的 自主 品牌 贵 那么 点 但是 做工 相比 还是 有 优势 的 , 就 看 车子 日后 耐不 耐用 。	v r n c p r uj v n a r m c v v c v n uj x d v n t l a x	0 0 0 0 0 0 0 0 1 0
+最不满意	噪音 有点 大 车顶 还 能 再 高点 , 动力 也 有点 跟不上 可能 是 排量 有点 小 吧	n n a n d v d n x n d n v v v n n a y	0 0 -1 0 0 -1 0 0 0 0
+操控	操控 还行 吧 , 指 哪 打 哪 , 好像 没 啥 虚位 。 开 过 好几种 车 , 相之 还 可以 。	v v y x v r v r x v d r n x v ug m zg x d d c x	0 0 0 0 0 0 0 0 0 0
+最满意	最 满意 的 当然 是 空间 外观 , 毋庸置疑 , 初见 它 眼眸 , 金虎 给 我 的 感觉 就是 大 , 霸气 , 漂亮 , 完全符合 我 心目 中 的 车型 , 所以 也 就 在 观望 了 2 个 月 之后 毅然决然 的 下定 !	d v uj d v n n x l x v r n x nr p r uj n d a x n x a x i r n f uj n x c d d p v ul m m m f i uj v x	1 0 1 0 0 0 0 0 0 0
+最不满意	不 满意 的 有 两点 , 就是 这 车 味道 有点 大 , 而且 都 这么 长时间 了 还有 ! , 应该 是 通病 吧 ! 就是 挡 有时 不好 挂 。 不过 我 找到 自己 的 方法 了 , 就是 挂 不 进时 把 离合 松下 再 踩 就 好 挂 了 。 也许 是 我 是 新手 的 原因 吧 ! 不过 这 价格 在 这 呢 , 还 想 怎么样 呢	d v uj v m x d r zg n n a x c d r l ul v x x v v n y x d zg r d v x c r v r uj n ul x d v d d p v n d v d a v ul x d v r v n uj n y x c r n p r y x d v r y	0 0 0 0 0 0 -1 -1 0 0
+最满意	最 满意 的 就是 外观 和 内饰 算是 同 级别 中 设计 的 比较 好 的 , 配置 高 , 后排 座椅 还 能 平放 倒	d v uj d n c n v p n f vn uj d a uj x v a x vn n d v v v	1 1 0 0 0 0 0 0 1 0
+外观	外观设计 可以 , 但是 用料 确实 有些 寒酸 , 车 缝隙 都 老大	n c x c n ad r n x zg n d a	1 0 0 0 0 0 0 0 0 0
+最不满意	比较 不 满意 的 地方 就是 中控 的 设计 有点 跟 不 , 导航 的 设计 还是 略微 有些 老气 了 听说 是 已经 改款 过 的 车型 了 , 还是 没有 对 中控 的 设计 动刀 , 有点 小 失望	d d v uj n d j uj vn n p v x v uj vn c d r n ul v v d v ug uj n ul x c v p j uj vn n x n a v	0 -1 0 0 0 0 0 0 0 0
+最满意	最 满意 油耗 , 因为 买车 主要 也 就是 日常 代 代步 , 想着 油耗 低点 用车 成本 也 能 便宜 点 。 小 5 的 油耗 表现 我 很 满意 , 公里 也 就 5 毛钱 , 加起 油 来 也 不 心疼 。	d v n x c n b d d d q n x v n n n n d v a m x a m uj n v r d v x q d d m n x v n v d d a x	0 0 0 1 0 0 0 0 0 0
+性价比	总的来说 这个 价位 性价比 不 高 雷车 向来 在 中国 也 没什么 性价比 另外 再说 次 此车 配置 比较 寒酸 有些 很 实用 的 舒适 配置 都 没有 在 这方面 必须 差 评	c r n n d a n v p ns d l n c c q r v d n r zg v uj a v d v p mq d a n	0 0 0 0 0 0 0 0 -1 0
+最满意	最 满意 动力 , 荣威 现在 主推 的 这 套 1.5 自 吸 动力系统 实际 的 表现 确实 不错 , 加速 很 流畅 , 发动机 与 变速箱 的 匹配 默契 , 调教 水平 并 不 输 很多 合资 车型 。	d v n x nr t b uj r q m p v l n uj v ad a x v zg a x n p n uj v nrt x nz n c d v m vn n x	0 0 0 0 0 1 0 0 0 0
+外观	你 看 那 外观 萌动 而 不失 大气 线条 圆润 又 凸显出 肌肉 大灯 带 透镜 不失 性价比 同时 聚光 效果 凸显	r v r n v c v n n n d v n n v n v n c n n a	1 0 0 0 0 0 0 0 0 0
+最不满意	后备箱 不够 大 , 新车 味道 比较 大 。	n v a x n n d a x	0 0 -1 0 0 0 0 0 0 0
+最满意	外观 时尚 , 有 运动感 , 内饰 非常 完美 , 很 适合 年轻人 的 选择 。 对比 了长 安逸 动 , 奇瑞 艾瑞泽 gx , 还是 选择 了 吉利 , 因为 觉得 这个 车 是 最 符合 自己 的 标准 。	n n x v n x n d a x zg v n uj v x v v nr v x nz nr eng x c v ul ns x c v r n v d v r uj n x	1 0 0 0 0 0 0 0 0 0
+最满意	比较满意 的 还是 性价比 了 , 因为 同时 提 两个 车 优惠 比 别人 还 大些 , 超级 划算	l uj c n ul x c c v m zg vn p r d r x b v	0 0 0 0 0 0 0 0 1 0
+最满意	配置 , 特别 是 主动 刹车 并线辅助 , 自适应巡航 还 在 学 好像 不错 的 样子 。	v x d v b n n x n d p n v a uj n x	0 0 0 0 0 0 0 0 1 1
+性价比	性价比 很 高 。 4s店 的 服务 也 很 好 。 人员 很 热情 。	n d a x n uj vn d d a x n zg n x	0 0 0 0 0 0 0 0 1 0
+最不满意	最 不 满意 两点 , 作为 1.5 的 机器 , 油耗 偏 高 , 1 挡 跟 2 挡 之间 的 齿 设计 的 不好 , 新手 相对来说 容易 灭火	d d v m x v m uj n x n d a x m v p m v f uj n vn uj d x n l a v	0 0 0 -1 0 0 -1 0 0 0
+最不满意	1 。 5 T 手动 耀目 版 和 1 。 5 T 手动 电商 版 发动机 仓 连 个 盖板 都 没有 , 打开 机仓盖 有点 掉 档次 , 本来 这个 发动机 仓盖 也 不值 多少钱 , 成本 也 不要 多少 , 何必 在 这 上面 省钱 呢	x x m eng n n n c m x m eng n n n n nr u q n d v x v n n zg n x t r n n d n nr x n d df m x d p r f n y	0 0 0 0 0 0 0 0 -1 0
+最满意	外观 , 天窗 , 胎压 监测 , 恒温 空调	n x n x n vn x nz n	1 1 0 0 0 0 0 0 1 0
+操控	操控 精准 油轻 转向 轻 都 是 优点 能 带来 不错 的 驾驶 感受	v n n v a d v n v v a uj v v	0 0 0 0 0 0 1 0 0 0
+最满意	这款 最 让 我 满意 的 地方 就是 空间 内饰 , 因为 是 家用 代步车 空间 大 很 重要 , 最初 决定 买 这个 车 的 时候 就是 因为 空间 大 , 家人 坐 着 舒适性 也好 , 没有 那么 压抑 , 内饰 也 比 其他 车型 豪华	r d v r v uj n d n n x c v n n n a d a x t v v r n uj n d c n a x n v uz nr y x v r v x n d p r n a	0 1 1 0 0 0 0 1 0 0
+最不满意	刚 买 的 时候 内饰 皮子 有点 硬 还 有点 异味	d v uj n n n n a d n n	0 -1 0 0 0 0 0 0 0 0
+最满意	家中 先前 已经 购入 辆 奇瑞 艾瑞泽7 轿车 了 直 想 再 入手 辆 小点 的 SUV 给 老婆 代步 接送 小孩 3 x 是 个 很好 的 选择 , suv 通过 性 高 对于 我们 这 城乡 接合 的 烂路 还是 非常 满意 的 , 价格 适中 也 是 个 购买 3 x 的 原因 压力 不会 太 大 , 颜值 挺 高 邻居 都 说 车车 很漂亮 7 万元 还 能 买到 自动挡 很 满意 了	s t d v m nz n n ul d v d v m n uj eng p n n v n m eng v q a uj v x eng p n a p r r n v uj n c d v uj x n v d v q v m eng uj n n v d a x n d a v d v n n x m d v v i zg v ul	0 0 0 0 0 1 0 0 0 0
+舒适性	舒适性 , 对于 日产 其实 不 需要 多 讲 , 坐过 的 都 说好 , 移动 的 大 沙发 不是 白 叫 的 , 平时 个人 开 的 比较 多 , 座椅 调 的 很 舒服 , 现在 路 也 都 造 的 很好 , 没 啥 坑坑洼洼 的 路 , 坑洼 过滤 的 非常 好 , 后排 家人 朋友 坐 也 都 说 座椅 很软 很 舒服 , 减振 性 也 很 不错 , 完全 消除 了 对于 后 悬挂 的 顾虑 , 调料 的 真的 不错 ? ? ? ? ? ?	nr x p j d d v m v x v uj d v x vn uj n nz c a v uj x t n v uj d m x n v uj a a x t n d d v uj a x d r l uj n x n v uj d a x vn n n v d d v n a d a x v n d d a x ad v ul p f v uj v x n uj d a x x x x x x	0 0 0 0 0 0 0 1 0 0
+油耗	油耗 还是 很 满意 的 , 这 才刚 开始 用车 , 也 是 我 的 第 辆车 , 还 没有 开 空调 , 油耗 不到 个油 , 在 跑 高速 的 时候 五个 多点 , 很 省钱 啊 , 公里 四 五毛钱 。	n c zg v uj x r d v n x d v r uj m m x d v v n x n v n x p v d uj n m m x zg n zg x q m n x	0 0 0 1 0 0 0 0 0 0
+外观	外观 真心 不错 , 颜值 非常 高 , 本 屌丝 就是 因为 这个 才 考虑 入手 艾 5 的 , 可以 去 勾搭 妹子 咯 。	n d a x n d a x r n d c r d v v nr m uj x c v v n o x	1 0 0 0 0 0 0 0 0 0
+最满意	第个 看见 的 肯定 就是 外观 了 , 内饰 做工 好 , 新车 也 不 臭 , 动力 也 可以	m v uj v d n ul x n v a x n d d a x n d c	1 1 0 0 0 1 0 0 0 0
+最满意	对于 个 重度 颜 控 来说 , 最 满意 的 当然 是 它 的 外观 , 我 选 的 是 白色 的 , 个人感觉 非常 的 大气 , 非常 符合 现在 年轻人 的 审美 , 很多 细节 方面 设计 的 非常 漂亮 。	p q n nr v u x d v uj d v r uj n x r v uj v n uj x n d uj n x d v t n uj vn x m n n vn uj d a x	1 0 0 0 0 0 0 0 0 0
+最不满意	后排 座椅 放到 不够 平 , 虽然 空间 很大 , 但是 装 大件 东西 的 时候 空间 不能 充分利用 。 其次 就是 油耗 有点 偏高 了 。 还有 就是 感觉 档 把 位置 有点 靠 上 了 , 刚 上手 会 有点 不 习惯 。	vn n v v n x c n a x c v n ns uj n n v n x r d n n v ul x v d n n p v n v f ul x d v v n d n x	0 0 1 -1 0 0 0 -1 0 0
+最满意	操控 简单 , 内饰 , 外观 漂亮 , 配置 高 大家 都 知道	v a x n x n a x v a n d v	1 1 0 0 0 0 1 0 1 0
+最不满意	上坡 转 平地 换挡 反应 慢 , 油耗 有点 高	ns v n v vn a x n n a	0 0 0 -1 0 0 -1 0 0 0
+操控	转向 轻巧 , 但是 车辆 随着 速度 的 提升 , 方向 加重 , 操控 稳稳 的 。 行驶 非常 平顺 , 配合 相当 丰富 , 尤其 是 高速 上 的 acc 自 适应 续航 。	v a x c n p n uj v x n v x v a uj x v d nr x v d a x d v d f uj eng r v nr x	0 0 0 0 0 0 1 0 0 0
+油耗	油耗 我 在 提车 400 公里 内 跑 到 过 4.7 个油 , 第次 加 了 200 元 跑 了 500 公里 路 , 表显 还 可以 跑 30 公里 , 有 城市 、 乡村 和 高速 ! 对 油耗 很 满意 , 甚至 是 惊喜 ! 现在 车子 跑 了 千公里 了 , 总共 加 了 400 元 的 有 ! 好 省油 , 这 还是 磨合期 内 哦 !	n r p v m q f v v ug m n x m v ul m m v ul m q n x v d c v m q x v ns x n c d x p n zg v x d v a x t n v ul q ul x b v ul m m uj v x a n x r c n f e x	0 0 0 1 0 0 0 0 0 0
+最不满意	主动 刹车 在 城市 隧道 里 直 误报 , 灵敏度 最低 也 会 跳	b n p ns n f d n x n a d v v	0 0 0 0 0 0 0 0 0 -1
+最不满意	1. 太 朴素 的 卤素灯 2. 在 地下 车库 语音 识别 很慢 ; 3. iphone 多次 尝试 车 联网 失败 无 反应 — 打 过 客服 后 已经 解决 ~	m n nr uj n m p s n n v d x m eng m vn zg nz v v vn x v ug n f d v x	0 0 0 0 0 0 0 0 -1 -1
+空间	2700 的 轴距 不是 吹 的 比 很多 同 级别 车 都 要 大 很多	m uj n c v uj n m p n n d v a m	0 0 1 0 0 0 0 0 0 0
+最不满意	城里 油耗 偏 高 , 动力 不足 , 噪音 大 , 消声器 有 丝丝 响声 , 底盘 偏 硬 , 音响效果 不是 般的 差 ! 还有 就是 车 玻璃 降到 半时 关 感觉 车 都 要 散架 似的	s n d a x n a x n a x l v m n x n d a x n c u a x v d zg n v t v n n d v n u	0 0 0 -1 0 -1 0 -1 0 0
+性价比	优惠 了 两万 , 相对 合算 了 。 油耗 应该 也 可以 , 争取 让 它 降下来	vn ul m x d v ul x n v d c x v v r v	0 0 0 1 0 0 0 0 1 0
+最不满意	这个 价位 没有 真皮 座椅 。 挂挡 机构 偏 硬 。 挂入 倒挡 后 , 会 有 声响 。 4s店 说 属 正常 。	r n v n n x v n d a x v v f x v v n x n v v d x	0 0 0 0 0 0 -1 0 0 0
+外观	个人 绝对 比较 经典 , 中规中矩 比较 朴实 , 耐看 , 经典 。	n d d n x l d a x a x n x	1 0 0 0 0 0 0 0 0 0
+舒适性	自动 铂金版 的 新款 原来 的 老款 真的 有 了 很大 的 提升 , 座椅 很软 很 舒服 , 包裹 性 也 很 好 ! 但是 悬架 较硬 , 过 减速带 还有 走 烂 路 有点 颠簸 感	vn n uj n d uj n d v ul a uj v x n a d a x v n d d a x c n a x ug n v v v n n v v	0 1 0 0 0 0 0 1 0 0
+舒适性	座椅 个人 觉得 有点 偏 硬 , 后排 出风口 冬天 用不上 但是 在 夏天 来说 是 个 超级 实用 的 功能 。 减震 般般 吧 , 这个 价位 的 车 不能 总 要求 样样 都 好 , 过 减速带 还是 感觉 底盘 有点 硬 。	n n v n d a x vn n t l c p t u v q b v uj n x v a y x r n uj n v b v n d a x ug n c n n n a x	0 0 0 0 0 0 0 -1 0 0
+最不满意	油耗 大 的 有点 离谱 仪表盘 可 续航 里程 也 不准 有点 不敢相信	n a uj n n n v nr n d v n i	0 0 0 -1 0 0 0 0 0 0
+最不满意	不 满意 的 就是 优惠 少 , 选 的 白色 还 加钱 了 。 本来 没 打算 现在 买 的 , 想 等等 优惠 了 再 买 , 不 过去 看 的 时候 觉得 特别 好看 , 配置 也 挺 高 , 相对 看 的 其他 车 价格 也 还行 又 是 新车 就 没 经住 诱惑 , 买 了 。	d v uj d vn a x v uj n d v ul x t v v t v uj x v u vn ul d v x d t v uj n v d v x v d d a x d v uj r zg n d v d v n d d v v x v ul x	1 0 0 0 0 0 0 0 1 0
+操控	操控 方便 感觉 不错 , 这个 价位 级别 的 , 真是 性价 最高 的 了 。 尤其 底盘 是 我 喜欢 的 , 过 减速带 的 时候 没有 多余 的 弹跳 , 很棒 。 高级 感 很 强 。	v a n a x r n n uj x d n a uj ul x d n v r v uj x ug n uj n v m uj v x a x b vg d a x	0 0 0 0 0 0 1 1 1 0
+油耗	市区 郊区 七 开 不到 百公里 油耗 目前 不到 个油 。 不 知道 后期 会 不会 降低 。 表显 的 油耗 应该 是 最近 几公里 不是 计 里程 的 平均值 , 也 就 看看 不 作 参考 。	n s m v v m n t v n x d v t v v v x v uj n v v f m c n n uj n x d d v d v v x	0 0 0 -1 0 0 0 0 0 0
+最满意的点	我 觉得 这款 车 还是 适合 女生 开 , 我 很 喜欢	r v r zg c v n v x r d v	0 0 0 0 0 0 0 0 0 0
+内饰	内饰 好看 , 挺 稳重 年轻 的 , 喜欢 。 多媒体 : 中控 屏 很大 , 压榨 别的 。 其次 音响 不错 , 带劲 。	n v x d a a uj x v x n x j n a x v r x r n a x v x	0 1 0 0 0 0 0 0 1 0
+油耗	目前 行驶 900 多公里 , 全程 市区 , 还 可以 吧 , 7.9 L , 刚 拿 驾照 个 月 , 纯 新手	t v m m x n n x d c y x m eng x d v v m m x a n	0 0 0 1 0 0 0 0 0 0
+舒适性	不得不 否认 ! 领克 这个 货 , 能 把 NVH 做 的 还 真的 牛 !	d v x n r n x v p eng v uj d d n x	0 0 0 0 0 0 0 1 0 0
+内饰	做工 非常 精细 , 奔驰 不愧 是 奔驰 , 这点 让 我 非常 满意 , 各个 细节 都 非常 到位 , 按键 清晰 , 阻尼 恰到好处 , 该 镀铬 的 地方 都 有 了 , 也 不会 太 多 。 该 缝线 的 地方 也 很 完美 。 柏林 之 声 有 条件 还是 要 选装 的 , 音质 完美 , 镀铬 盖板 也 很漂亮 。	v d a x v a v v x mq v r d v x r n d d v x n a x n i x r n uj n d v ul x d v d m x r n uj n d d a x nr u q v n c v v uj x n a x n n d n x	0 1 0 0 0 0 0 0 0 0
+外观	买 这车 , 就是 奔 着 这个 去 的 , 虽说 不算 太 好看 , 可 也 不 丢 颜值 , 本来 想买 一个 宝石蓝 颜色 的 , 因为 实车 的 蓝色 不是 自己 想要 的 , 看看 这个 什么 “ 云母 红 ” 在 太阳 的 照射 下 颜色 更 漂亮 , 所以 就 提 了 这个 颜色 。	v r x d v uz r v uj x c v d v x v d d v n x t v m nr n uj x c n uj n c r v uj x v r r x nr a x p ns uj v f n d a x c d v ul r n x	1 0 0 0 0 0 0 0 0 0
+最满意	最 满意 的 是 这个 车 坐 起来 特别 的 舒服 , 皮 座椅 还是 , 还 真是 超值版 来 , 以前 我 关注 过 这个 配置 , 以前 布 的 座椅 的 , 比 现在 的 简陋 。 现在 升级 了 些 配置 , 也 是 和先峰 版 的样 都 是 键 启动 和 无 钥匙 进入 的 了 。	d v uj v r n v v d uj a x n n c x d d n v x f r v ug r v x f n uj n uj x p t uj a x t vn ul q v x d v nr n u d v n vn c v n v uj ul x	0 0 0 0 0 0 0 1 0 0
+最不满意	车子 的 减震 感觉 有些 硬 , 平时 开 着 还 好些 , 有 是 颠簸 些 的 路况 , 舒适度 感觉 特别 的 差 , 或者 这个 价位 的 车 就是 这样 吧 。 另外 就是 偶尔 会 出现 些 异响 , 具体 又 不是太好 早 , 不太好 处理 。 时间 长 了 , 也 就 不 太 在意 了	n uj v n r a x t v uz d m x v v v q uj n x n n d uj n x c r n uj n d r y x c d d v v q n x a d l a x v v x n a ul x d d d d v ul	0 0 0 0 0 0 -1 -1 0 0
+性价比	感觉 手动 向上 互联 版 的 好 改有 的 配置 都 有 , 买手 豪 版 不如 加点 买 互联 版 的 。 期待 的 配置 : 手动 互联 版 的 不能 远程 控制 不爽 还 没有 空气净化 这 8 有 顶 配 才 有 有点 失望	n n d v n uj a v uj v d v x v ag n c n v v n uj x v uj v x n v n uj v n v a d v n r m v v v d v n v	0 0 0 0 0 0 0 0 -1 0
+最不满意	前排 储物 空间 ; 雨天 行车 出现 前雷达 故障 提示 ; 手机 app 车 关闭 状态 车辆 位置 更新 不 及时 ; 还有 就是 大家 都 反应 的 车 机系统 反应 慢 识别 不准 。	v n n x t n v n n v x n eng n v n n v d d c x v d n d vn uj n n vn a v v x	0 0 0 0 0 0 0 0 0 -1
+外观	我 的 白色 的 这个 五星 车身 和 车漆 都 不错 还 没 发现 更好 看 的 车灯 设计 : 车灯 造型 我 觉得 是 个 亮点 很 喜欢 尤其 前大灯 做工 车漆 : 质感 很 好 白色 也 是 金属漆 了 还 能 想 怎样 呢 ? ? ?	r uj n uj r nz n c n d a d v v d v uj n vn x n n r v v q n zg v d n v n x n d a n d v nz ul d v v r y x x x	1 0 0 0 0 0 0 0 0 0
+最满意	外观 不错 , 关注 率 很 高 。 动力 不错 , 座椅 很 舒服 , 包裹 性 很 好 , 大 爱 全景天窗 。	n a x v v d a x n a x n zg a x v n d a x a v n x	1 0 0 0 0 1 0 1 0 0
+空间	车内 最 多 可以 乘坐 6 个人 , 如果 是 小孩 成人 共同 乘坐 可以 乘坐 5 个 大人 和 个 小孩 , 体型 算 中等 , 还是 较 宽敞 的 , 因为 本人 家里 的 人 不 多 , 每次 出家人 都 能 坐 得 下 。	s d m c v x n x c v n n d v c v m m n c n n x n v b x c zg a uj x c r s uj n d m x r n d v v ud f x	0 0 1 0 0 0 0 0 0 0
+舒适性	我 这款 的 01 座位 有点 小 了 , 还 有点 硬 。 但是 我 知道 19 款 已经 改良 了 , 上次 去 4S店 保养 , 我 进到 19 款 的 01 感受 了 次 , 坐垫 加大 加长 了 , 也 软 了 很多 , 坐 起来 非常 舒服 。 同时 19 款 还 多 了 好多 实用 的 配置 。	r r uj m n n a ul x d n a x c r v m m d v ul x t v n v x r v m n uj m v ul q x n v v ul x d a ul m x v v d a x c m n d m ul m v uj v x	0 0 0 0 0 0 0 1 1 0
+操控	操控 的话 , 对于 这 台车 , 首先 驾驶 感受 那 是 没得说 , 车身 大 , 操作 灵活 , 方向盘 灵敏度 高 很轻 , 再 加上 有 很多 的 辅助 系统 , 给 驾驶 带来 了 很大 的 乐趣	v u x p r n x d v v r v l x n a x v a x n n a a x d v v m uj vn n x p v v ul a uj a	0 0 0 0 0 0 1 0 0 0
+最满意	中意 10.25 英寸 的 大中 控 , 还有 几年 的 车 联网 免费 。	n m n uj r v x v m uj n nz vn x	0 0 0 0 0 0 0 0 1 0
+最满意的点	座椅 移动 大 沙发 舒适性 挺强 的 。 空间 大 后排 坐 3 个 都 没有 压抑感 , 动力 也 没有 想象 中 的 软 。 新 的 幅 方向盘 拷贝 明星 跑车 370 Z , 中控 T型台 及 档位 又 采用 了 全黑 钢琴 烤漆 , 感觉 高大 。	n vn a nz nr v uj x n a vn v m m d v n x n d v n f uj n x a uj n n n nr n m eng x j n c n d v ul n n n x n a x	0 0 1 0 0 1 0 1 1 0
+内饰	内饰 中规中矩 , 般般 吧 。 新车 塑料 味 比较 大 , 自己 买车 回来 第件 事情 就是 去 市场 买 了 四个 大 竹炭 包放 车上 。 天气 好 的 时候 车窗 可以 开 个 小 缝隙 透透气 要 好 很多 。 多功能方向盘 , 蓝牙 接 打电话 , 定速巡航 功能 , 音量 调节 非常 实用 方便 。 大灯 高低 调节 功能 和 后视镜电动调节 功能 。	n l x a y x n n n d a x r n v m n d v n v ul m a n v s x n a uj n n c v q a n n v a m x n x ns v l x n n x n vn d v a x n a vn n c n n x	0 1 0 0 0 0 0 -1 0 1
+最满意	内饰 真的 是 最 满意 的 地方 米色 真的 非常 好看 才 不管 容 不 容易 脏 呢	n d v d v uj n n d d v d c v d a a y	0 1 0 0 0 0 0 0 0 0
+最不满意	没 啥 不 满意 , 就是 方向 有点 往左边 偏 , 基本 没 影响	d r d v x d n n z a x n v vn	0 0 0 0 0 0 0 0 0 0
+最不满意的点	底盘 悬挂 太差 过 烂 路 太 硬 , 噪音 大 。 相 75 路感 差 很多 。	n v n ug a n d a x n a x v m n n m x	0 0 0 0 0 0 -1 -1 0 0
+性价比	我 8 能 呵呵 → _ → … NX 是 雷克萨斯 性价比 最低 的 车 … 再来次 , 我 宁愿 买奇骏 …	r m v v x x x x eng v nr n a uj n x d x r d nr x	0 0 0 0 0 0 0 0 -1 0
+操控	这款 车 的 方向盘 手感 很 不错 的 , 非常 的 轻盈 , 又 很 好 掌控 , 没有 虚位 指向 回向 都 很 精准 , 跑 高速 的 时候 速度快 方向盘 就 会 变 沉 些 , 我 大多数 时候 都 是 开 着 定速巡航 , 很 省心 , 这款 车 开 着 很 舒服 , 整体 操作 都 很 顺手 , 还有 就是 开 习惯 我 的 领克02 , 现在 开 别人 的 车 第 感觉 就是 这个 方向盘 怎么 这么 沉 。	r n uj n n zg a uj x d uj z x d d a j x v n n v d d n x v d uj n n n d v v v q x r m n d v v uz n x zg n x r n v uz d a x n v d d d x v d v n r uj n x t v r uj n m n d r n r r v x	0 0 0 0 0 0 1 0 0 0
+最不满意	感觉 唯有 点 遗憾 的 是 悬挂 有点 硬 , 过 烂 路 有些 的 颠簸 ! 不过 上 了 高速公路 后 就 会 体现 出 它 的 好处 , 有 很强 的 支撑 感 , 给足 你 信心 ! 其他 目前 都 很 满意 !	n b m a uj v v n a x ug a n r uj v x c f ul n f d v v v r uj d x v a uj v v x v r n x r t d d v x	0 0 0 0 0 0 0 1 -1 0
+最不满意	最 不 满意 的 就是 它 的 价格 , 点 都 没 让价 。	d d v uj d r uj n x m d v v x	0 0 0 0 0 0 0 0 -1 0
+外观	非常 满意 , 就是 冲着 外观 和 空间 去 的	d v x d p n c n v uj	1 0 1 0 0 0 0 0 0 0
+性价比	配置 方面 EPS 应该 有 , 手刹 改成 电子 的 ! 扶手箱 太短 手 不好 放 !	v n eng v v x n v n uj x n n n d v x	0 0 0 0 0 0 0 0 1 0
+舒适性	座椅 很 舒适 , 前排 的 包裹 性 很 好 , 后排 座椅 很 舒适 , 各 方面 很 满意 。 。	n zg a x v uj v n d a x vn n zg a x r n zg v x x	0 0 0 0 0 0 0 1 0 0
+操控	整体 操控 起来 很 舒服 , 方向盘 轻 , 目前 也 没有 什么 故障	n v v zg a x n a x t d v r n	0 0 0 0 0 0 1 0 0 0
+内饰	内饰 设计 合理 , 内饰 整体 看起来 很 有 质感 , 做工 精细 , 用料 很 讲究 了 , 刚 买车 那 会 , 车内 没有 异味 , 10.25 英寸 的 悬浮式 中控 屏幕 , 钢琴 烤漆 的 中控台 , 看起来 都 很 豪华 , 也 很 有 科技 感 了 , 内饰 纯 黑色 , 多处 还 用 镀铬 银条 加以 修饰 了 , 车内 储物格 也 挺 多 的 , 不管 是 在 视觉 还是 在 乘坐 体验 都 可以 称得 欣的 了 。	n vn vn x n n v d v n x v a x n zg vn ul x d n r v x s v n x m n uj n j n x n n uj nt x v d d a x d d v n vg ul x n a n x m d p n n v v ul x s n d d m uj x c v p n c p v n d c v v ul x	0 1 1 0 0 0 0 1 0 0
+性价比	这个 价格 , 这个 品牌 , 还是 比较 不错 的 。	r n x r n x c d a uj x	0 0 0 0 0 0 0 0 1 0
+舒适性	舒适性 以 短途 来说 , 坐 4 人 还是 较 舒适 。 5 个人 的话 后面 定会 较 难受 。	nr p b u x v m n c zg a x x n u f n d v x	0 0 0 0 0 0 0 1 0 0
+最满意	本人 颜 控 , 选车 就 和 选 老婆 样总 想着 好看 的 嘛 , 而 虎 8 刚好 满足 我 的 颜控 , 外观 霸气 耐看 又 有 超大 尺寸 , 再 来 就是 这款 车 性价比 真的 不错 , 满意 的	r nr v x n d c v n n v v uj y x c n m d v r uj n x n n a d v v n x d v d r zg n d a x v uj	1 0 0 0 0 0 0 0 1 0
+动力	动力 怎么 说 呢 ! 这个 车 的 动力 8 能 说 够用 ! 毕竟 1.6 自然 吸气 , 而且 价位 也 在 这 摆 着 ! 如果 是 城市 代步 还是 够用 的 , 家口 , 不 急 不慢 的 开 ! 但是 如果 车子 坐满 人 , 后面 在 拉 上货 , 动力 就 不是 很 理想 ! 话 又 说 回来 , 1.6 配合 爱信 的 变速箱 , 整体 还是 不错 的 !	n r v y x r n uj n m v v v x d m d n x c n d p r v uz x c v ns n c v uj x s x d v d uj v x c c n v n x f p ns nt x n d c zg n x n d v v x m v nz uj n x n c a uj x	0 0 0 0 0 -1 0 0 1 0
+操控	还 可以 啦 , 指 哪 打 哪 , 很 轻松 , 开 着 也 不累 , ,	d c y x v r v r x zg a x v uz d v x x	0 0 0 0 0 0 1 0 0 0
+操控	方向盘 很轻 , 比较 精准 , 没有 虚位 , 悬架 适中 。	n a x d n x v n x n v x	0 0 0 0 0 0 1 0 0 0
+油耗	市区 11 左右 , 有时候 能到 13. 高速 能到 8 , 能 接受 。	n m m x l v m d v m x v v x	0 0 0 1 0 0 0 0 0 0
+最不满意	座椅 方向盘 。 始终 感觉 调好 座椅 方向盘 是 件 比较 难 的 事情 。 要 不 胳膊 不 舒服 要 不 腿 不 舒服 。	n n x d n v n n v q d a uj n x v d n d a v d n d a x	0 0 0 0 0 0 0 -1 0 0
+最满意	高档 大气 倍 有 面子 , 非常 不错 的 款车 。	b n m v n x d a uj n x	1 0 0 0 0 0 0 0 0 0
+最满意	最 满意 的 地方 第 是 外观 很 时尚 比较 年轻化 第 挺 便宜 的 在 我 的 预算 之内 第 配置 比较 全 平时 就 上班 逛街 接送 小孩子 代步 挺 合适 的 第四 业务员 挺 执着 的 隔 几天 就 跟 我 打 个 电话 服务态度 很 好	d v uj n m v n zg n d n m d a uj p r uj v f m v d a t d v v v n n d a uj m n d v uj vn m d p r v q n n d a	1 0 0 0 0 0 0 0 1 0
+操控	多功能方向盘 , 车子 操控 容易 手 , 老婆 开 没 怎么 教 , 自己 轻松 就路 了	n x n v a n x n v v r v x r a v ul	0 0 0 0 0 0 1 0 0 0
+外观	侧面 我 认为 最 好看 , 整体 也 还 不错 , 敝帚自珍 。	f r v d v x n d d a x i x	1 0 0 0 0 0 0 0 0 0
+内饰	精致 完美 异味 异响 : 新车 基本 无 异味 , 新车 基本 无 异味 , 新车 基本 无 异味 , 新车 基本 无 异味 ,	a a n n x n n v n x n n v n x n n v n x n n v n x	0 1 0 0 0 0 0 0 0 0
+最不满意	动力 有点 欠缺 , 备胎 不是 原装 尺寸 的	n n v x n c n n uj	0 0 0 0 0 -1 0 0 -1 0
+油耗	目前 行驶 了 3000 公里 不到 , 平均 油耗 在 十个 左右 , 可能 是 我 快速路 跑 的 多 的 缘故 吧 , 划 下来 7 毛钱 不到 公里 。	t v ul m q v x a n p m m x v v r n v uj m uj n y x v t x n v q x	0 0 0 1 0 0 0 0 0 0
+最不满意	我 喜欢 那种 比较 扁平 的 车子 , 就 跟 跑车 差不多 的 那种 , 这个 有点 鼓 了 。	r v r d n uj n x d p n l uj r x r n v ul x	-1 0 0 0 0 0 0 0 0 0
+操控	比较 好 上手 的 款车 , 适合 新手 操控 感 的话 , 毕竟 不是 什么 专业 车手 , 也 谈不上 什么 操控 感 。	d a v uj n x v n v v u x d c r n n x d l r v v x	0 0 0 0 0 0 1 0 0 0
+操控	指向 精准 悬架 舒适度 很 好 , 刹车 初段 力度 不大 , 但 跟 之前 的 老 e3 样 , 所以 踩 着 也 很 习惯 。 ESP 启动 很 积极 , 有 几次 拐弯 明显 感觉 到 车子 给 轮子 制动 操作 的 声音 转弯半径 真 不大 , 原地 掉 个头 方便 不少	n n n n d a x n t n a x c p f uj n eng n x c v uz d d n x eng vn zg ad x v m n a n v n p n v v uj n i d a x n zg n a d	0 0 0 0 0 0 -1 0 0 0
+外观	外观 看上去 还是 非常 个性 , 尤其 是 车头 , 当时 买车 的 时候 是 相 跟上 家人 起去 的 都 挺 喜欢 悬浮式 的 车顶 都 非常 好看 。 美中不足 的 是 车 的 四个 轮胎 感觉 有点 小 哎 。	n v c d n x d v n x t n uj n v v f n v uj d d v n uj n d d v x i uj v n uj m n n n a e x	1 0 0 0 0 0 0 0 0 0
+最不满意	车辆 细节 ~ 车窗 亮条 不 整齐 ~ 发动机盖 间隙 过 大 ~ 起步 有点 肉 ~	n n x n n d d x l n ug a x d n n x	-1 0 0 0 0 -1 0 0 0 0
+油耗	可能 是 我 第辆 爱车 太 过 省油 , 导致 我 对 轩逸 的 要求 过 高 。	v v r m n d ug n x v r p nr uj v ug a x	0 0 0 -1 0 0 0 0 0 0
+空间	我 176 的 身高 、 把 前排 位置 调好 在 去 坐 后排 感觉 还是 蛮 富裕 的 。	r m uj v x p v v v p v v vn n c d a uj x	0 0 1 0 0 0 0 0 0 0
+操控	转向 良好 , 指向 明确 , 就是 方向盘 有点 沉重 , 尤其 是 档位 时 。 城区 道路 频繁 停车 起步 油离 稍 配合 不好 就 容易 熄火 。 我 的 体会 是 先轻 轰油 提高 转速 后 再慢 松 离合 才能 平稳 起步 。	v a x n ad x d n n a x d v n n x n n a v d n d v d d a v x r uj n v a n v v f d v v v a d x	0 0 0 0 0 0 -1 0 0 0
+最不满意	最 不 满意 的 地方 就是 油耗 , 还有 就是 在 颠簸 路面 的 时候 车内 前面 有异响 。 再就是 扶手箱 前面 。	d d v uj n d n x v d p v n uj n s f l x c n f x	0 0 0 -1 0 0 -1 0 0 0
+最满意	虎 ⑦ 的 配置 真的 是 诚意 满满 , 自动 大灯 、 自动 雨刷 、 自动 分区 空调 、 坐椅 加热 、 360 全景 影象 、 倒车镜 自动 折叠 , 各种 功能 应有尽有 , 用车 体验 非常 满意 。	n x uj v d v a v x vn n x vn n x vn n n x n v x m n n x n vn v x r n i x n n d v x	0 0 0 0 0 0 0 0 1 1
+舒适性	奔驰 的 驾驶 舒适感 真的 不错 , 很 舒适 , 豪华 。 头枕 必须 点 赞 ? ? 后排 也 没说的 那么 差 , 感觉 后排 沙发 很厚 。 隔音 不错 , 但 如果 在 车外 怠 速 停 发动机 的 声音 简直 醉 了	v uj v nr d a x zg a x a x n d m v x x vn d l r a x n vn nz a x n a x c c p s ag ng v n uj n d v ul	0 1 0 0 0 0 0 1 0 0
+动力	家用 动力 不错 就是 想 在 高速 上 超个 车 得 提前 做好 准备	n n a d v p d f b n ud v v v	0 0 0 0 0 -1 0 0 0 0
+油耗	目前 行驶 5800 公里 , 油耗 有点 偏 高 , 我 市区 路段 行驶 比较 多 , 百公里 油耗 9 L	t v m q x n n d a x r n n v d m x m n m eng	0 0 0 -1 0 0 0 0 0 0
+操控	操控 还 行 , 毕竟 不是 主打 运动 的 车	v d zg x d c n vn uj n	0 0 0 0 0 0 1 0 0 0
+空间	中控台 有点 大 , 前排 的 两个 座位 人 不能 肆意 把 腿 张开	nt n a x v uj m n n v d p n nr	0 0 -1 0 0 0 0 0 0 0
+油耗	才 刚刚 跑 了 200 多公里 , 油耗 就 不 说 了 , 过 了 磨合期 看看 再说 吧 。 现在 好像 是 10 个油 这 样子 。	d d v ul m m x n d d v ul x ug ul n v c y x t v v m n r n x	0 0 0 -1 0 0 0 0 0 0
+最满意	帝豪GL 这款 车 设计 简洁 大方 , 适合 现在 年轻人 的 审美 , 车子 的 配置 高 自带 GPS 定位系统 , 防撞 系统 , 行车记录仪 , 倒车影像 开 起来 更为 方便 , 我们 买 的 1.4 T 尊贵 智 享版 , 真皮 座椅 舒适 大气 , 性价比 非常 高	n r zg vn a n x v t n uj vn x n uj v a n eng l x vn n x n x n v v d a x r v uj m eng a ng v x n n a n x n d a	1 0 0 0 0 0 0 1 1 1
+动力	动如猛牛 , 提速 刚刚 的 , 推杯 感 强烈 ,	l x v d uj x v v a x	0 0 0 0 0 1 0 0 0 0
+最不满意	不 满意 , 没有 什么 不 满意 的 , 开 了 这么久 , 还是 觉得 很 耐用 的 , 毕竟 每个 车子 可能 都 会 有 自己 的 缺点 , 所以 车子 是 真的 很 不错 的 啦	d v x v r d v uj x v ul r x c v zg a uj x d r n v d v v r uj n x c n v d zg a uj y	0 0 0 0 0 0 0 0 0 0
+外观	得 过 红点 设计奖 的 作品 颜值 没 的说 , 叉 戟 镀铬 大灯 在 前脸 上 很 有 视觉 冲击	ud ug n n uj n n d u x n ng n n p n f d v n vn	1 0 0 0 0 0 0 0 0 0
+最不满意	都 十几万 的 车 了 , 还 在 用 佳通 轮胎 , 这 我 就 想不通 了 , 厂家 是 把 核心 都 放到 了 大件 上 , 但是 这 四个 轮胎 也 是 车 的 脸 , 怎么 就 不能 高大 上 点 呢 ? 最 不济 得 换上 马牌 轮胎 或者 是 米其林 轮胎 也好 呀	d m uj n ul x d p p nz n x r r d l ul x n v p n d v ul n f x c r m n d v n uj n x r d v a f q y x d n ud v n n c v nr n y y	0 0 0 0 0 0 0 0 -1 0
+舒适性	过弯 稳 , 没什么 侧 倾 , 底盘 不软 不硬	v a x l v v x n a a	0 0 0 0 0 0 0 1 0 0
+最不满意	车 12 档 不大好 挂 , 车窗 不切 水 , 后排 空间 小 了 点 。	n m n l v x n a n x vn n a ul m x	0 0 -1 0 0 0 -1 0 0 0
+最不满意	老款 车型 是 天幕 , 希望 新车型 把 天幕 换成 天窗	n n v n x v n p n v n	0 0 0 0 0 0 0 0 -1 0
+舒适性	用 国产车 的 标准 来 衡量 、 用 这个 价位 来 对比 , 算是 很 不错 了 。	p n uj n v v x p r n v v x v zg a ul x	0 0 0 0 0 0 0 0 1 0
+最满意的一点	车 的 外形 内饰 都 比较 好 性价比 比较 高	n uj n n d d a n d a	1 1 0 0 0 0 0 0 1 0
+舒适性	没有 开 过 其他 的 车子 , 舒适型 自我感觉 不错 。	v v ug r uj n x nr l a x	0 0 0 0 0 0 0 1 0 0
+最不满意	觉得 有点 不是 很 好 吧 , 就是 这个 车 的 大灯 的话 远光灯 的 亮度 差 , 还有 就是 新车 内饰 的 异味 重 , 我 自己 放 了 几个 菠萝 在 车 里面 , 晒 了 个 星期 的 太阳 , 现在 已经 好多 了 .	v n c d a y x d r n uj n u n uj n a x v d n n uj n a x r r v ul m n p n f x v ul q t uj ns x t d m ul m	0 0 0 0 0 0 0 -1 -1 0
+最不满意	豪华型 没有 电动 尾 , 也 不 知道 奇瑞 人 的 想法 了 , 高 配 没有 尾	n v n n x d d v nz n uj v ul x a v v n	0 0 0 0 0 0 0 0 -1 0
+最不满意	新车 发动机声音 大 , 车子 起步 有点 慢 , 不过 对 我们 这些 不 塞车 的 人 来说 够 了	n n a x n d n a x c p r r d ns uj n u v ul	0 0 0 0 0 -1 0 -1 0 0
+油耗	百公里 耗油 6.7 ( 高速 ) 市区 ( 7.1 - 7.3 ) !	m n m x d x n x m x m x x	0 0 0 1 0 0 0 0 0 0
+最不满意	这个 现在 还 真的 是 没有 , 所以 也 就 不加 说明 了 。	r t d d v v x c d d v v ul x	0 0 0 0 0 0 0 0 0 0
+最满意	还 不错 吧 , 挺快 的 , 办理 分期 也 挺快 的	d a y x v uj x n vn d v uj	0 0 0 0 0 0 0 0 0 0
+油耗	那天 从 4 儿子 店 开 出来 车上 5 公里 , 加 了 200 块油 , 中 石油 6.62 / 每 升 。 今天 266 公里 , 油 还有 格 。 粗略 算下 9 个 。 路况 , 主要 是 县里 跑 , 去 了 趟 邻县 跑 了 七十 公里 , 国道 , 乡道 , 村道 , 庄家 地 , 各种 况 状 !	r p m n n v v s x q x v ul m n x f n m x r v x t m q x n v n x n v m m x n x b v n v x v ul q n v ul m q x n x n x n x n uv x r nr ng x	0 0 0 1 0 0 0 0 0 0
+内饰	内饰 设计 还是 非常 细节 的 , 尤其 是 中控台 , 缝隙 都 比较 均匀 , 而且 感觉 非常 实在 , 其他 车 感觉 有点 松散 , 整体 设计 感觉 有 环绕 的 感觉 , 能 感觉 出 安全感 , 顺便 吐 槽 气味 , 是 真的 大 。	n vn c d n uj x d v nt x n d d a x c n d v x r zg n n v x n vn n v v uj n x v n v nr x ad v ng n x v d a x	0 1 0 0 1 0 0 -1 0 0
+最不满意	感觉 高速 风 噪略 大 , 比 高尔夫 7 大 。 电动 尾箱 逻辑 不是太好 。 加速 感 比德 系差 。 后 悬架 改 多 连杆 占用 空间 , 油箱 变成 50 L 了 , 我 直 当 60 L 在 加 。	n d n n n x p n m a x n n n l x v v nrt n x f n v m n v n x n v m eng ul x r d p m eng p v x	0 0 0 0 0 0 0 0 -1 0
+舒适性	地盘 调教 舒适 , 操控 灵活 , 过 减速器 颠簸 柔软 。	n nz a x v a x ug n v a x	0 0 0 0 0 0 1 1 0 0
+最不满意	车子 看起来 非常 不错 , 没有 不 满意 的 地方	n v d a x v d v uj n	1 0 0 0 0 0 0 0 0 0
+外观	最 满意 的 就是 外观 了 , 看看 这 大 翘 臀 , 渍 渍 渍 , 完美 。 十万 的 车 看 了 那么 多 , 就是 被 这 靓车 见 钟情 , 什么 其他 的 都 无所谓 了 尾灯 也 很 帅 , 觉得 比 它 的 大哥 睿 骋 cc 的 尾灯 还 帅	d v uj d n ul x v r a v ng x v v v x a x m uj n v ul r m x d p r n v n x r r uj d l ul n d d a x v p r uj n nrfg vg eng uj n d a	1 0 0 0 0 0 0 0 0 0
+操控	路感 反馈 偏弱 、 但是 指向 还 算 准确	n v a x c n d v a	0 0 0 0 0 0 1 0 0 0
+空间	我 173 cm , 有 小孩 , 空间 目前 够用 。	r m eng x v n x n t v x	0 0 1 0 0 0 0 0 0 0
+最不满意	目前 还 在 磨合期 , 油耗 偏 高 , 过段时间 拉 个 高速 , 看看 能 降到 几	t d p n x n d a x n v q d x v v v m	0 0 0 -1 0 0 0 0 0 0
+最满意	外观 适合 国人 , 价格 亲民 , 空间 超强 。 这点 布 的 不 佩服 长城公司 。 既是 个 备胎 , 长城 都 选择 了 等 尺寸 , 值得 点 赞 , 厚道 。 荧光 踏板 , 点亮 度 , 足以 照亮 , 平安 入仓 。 哈弗 英文 射地 灯 , 彰显 与 其他 不同之处 , 倍 有 面子 。	n v n x n n x n v x mq n uj a v nt x c q n x ns d v ul u n x v m v x n x n n x v zg x v v x a v x nr nz n n x v p r l x m v n x	1 0 1 0 0 0 0 0 1 0
+最不满意	没有 360 没有 前雷达 , 感恩 对 老 车主 的 优惠 , 不然 新型 车上 市 这个 价格 怎么 也 优惠 不了 这么 多	v m v n x v p n n uj vn x c b s n r n r d vn v r m	0 0 0 0 0 0 0 0 1 -1
+操控	液压 助力 , 指向 清晰 , 路 感好 , 回馈 力度 适中 !	n n x n a x n v x v n v x	0 0 0 0 0 0 1 0 0 0
+最不满意	车身 漆 , 太差 , 还有 之前 有 帖子 说 发动机 爆 了 个 大 窟窿 , 要买 的 可以 先 去 看看 , 要是 给 我 从来 的 机会 , 我 是 不会 买 这车 的	n v x n x v f v n v n v ul q a n x v uj c d v v x c p r d uj n x r v v v r uj	-1 0 0 0 0 0 0 0 -1 0
+最不满意	车机 确实 很烂 。 虽然 是 2019 款 安卓 的 但 非常 不 人性化 。 USB 听歌 后 切换 到 收音机 , 回到 USB 不能 断点 播放 , 要 重新 选择 。 现在 连 网上 几百 的 车机 都 比 他 好 。	n ad a x c v m m nr uj c d d n x eng v f v v n x v eng v n v x v a v x t nr s m uj n d p r a x	0 0 0 0 0 0 0 0 0 -1
+最满意	新车 开 回来 也 有 段时间 了 , 说起 最 喜欢 最 满意 的 要数 上面 的 全景天窗 了 , 帅气 的 车型 搭配 上 高大 上 的 全景天窗 , 简直 帅 到 没 朋友 啊 。	n v v d v nr ul x v d v d v uj n f uj n ul x n uj n v f a f uj n x d a v v n zg x	1 0 0 0 0 0 0 0 1 0
+空间	空间 足够 用 了 , 后排 坐 个 180 左右 的 不会 感到 憋屈 。	n v p ul x vn v q m m uj v v a x	0 0 1 0 0 0 0 0 0 0
+最不满意	动力 有点 肉 , 尤其 是 2000 转 以下 的 时候 , 超过 2000 转才 感觉 动力 过来 , 前排 中控 下面 没有 储物 空间 , 手机 放 下面 拿 起来 很 不 方便 , 能放板 过杯 架上 , 油耗 没 我 预期 的 低 , 现在 磨合期 9.0 不 知道 以后 会 不会 少点 。	n n n x d v m v f uj n x v m t n n t x v j f v n n x n v f v v d d a x n n s x n d r vn uj a x t n m c v f v v m x	0 0 0 -1 0 -1 0 -1 0 0
+内饰	不错 ? ? 黑色 更 稳重 又 不失 时尚 青春活力 气息	a x x n d a d v n n n	0 1 0 0 0 0 0 0 0 0
+油耗	油耗 得 夸奖 下 , 毕竟 辆车 的 大部分 支出费用 都 在 加油 , 高速 上 4 个油 , 超级 省 ,	n ud v f x d m uj m n d p v x d ns m n x b n x	0 0 0 1 0 0 0 0 0 0
+最满意	家族化 经典 的 H . D . S 水流 动感 车身 设计 理念 , 并 采用 了 轿跑式 的 车身 设计 , 整体 造型 极其 流畅 , 非常 符合 年轻人 的 审美观 , 外观 大气 , 容易 上手 , 好 开 , 车内 听 噪音 低 , 这个 价位 轴距 大 且 标配 ESP , 安全系数 不错 , 性价比 超高 , 值得 分享	n n uj eng m eng m eng n n n vn n x c v ul n uj n vn x n n d a x d v n uj n x n n x a v x a v x s v n a x r n n a c vn eng x nz a x n v x v v	1 0 0 0 1 0 0 0 1 0
+内饰	内饰 就要 吐槽 了 , 用料 比较 廉价 , 我 选 的 是 全黑 内饰 , 还 好看 些 , 如果 是 双色 内饰 , 感觉 更 不 好看 。	n d v ul x n d n x r v uj v n n x d v q x c v n n x n d d v x	0 -1 0 0 0 0 0 0 0 0
+空间	空间 不用说 , 同 级别 很大 , 后排 跷郎 腿 轻轻松松 , 后备箱 也 很大 , 不过 平时 也 不装 啥 东西 , 也 就 逢年过节 拉 点货 。	n l x p n a x vn n n z x n d a x c t d v r ns x d d l v n x	0 0 1 0 0 0 0 1 0 0
+油耗	磨合期 油耗 高点 , 不 知道 以后 能 不能 降来 。	n n n x d v f v v v x	0 0 0 -1 0 0 0 0 0 0
+最满意	空间 大 这点 很 满意 , 整体 的 舒适性 也 很 不错 , 从 外观 上看 还好	n a mq zg v x n uj nr d d a x p n v v	1 0 1 0 0 0 0 1 0 0
+性价比	预算 七万 , 后来 优惠 万 , 钱 多 拿下 , 很 满意 , 感觉 性价 好 高 ,	v m x t vn m x n m v x zg v x n n a a x	0 0 0 0 0 0 0 0 1 0
+舒适性	座椅 还是 很 舒服 的 , 包裹 性 很 好 , 很软	n c zg a uj x v n d a x a	0 0 0 0 0 0 0 1 0 0
+操控	方向盘 不会 很轻 , 但 我 觉得 挺 合适 , 太轻 了会 感觉 有点 虚 , 指向性 很 精准 , 油 刹车 反应 迅速 , 很 灵敏 。	n v a x c r v d a x a v n n d x n zg n x n n vn ad x zg nr x	0 0 0 0 0 0 1 0 0 0
+油耗	油耗 方面 , 因为 本人 开车 比较 暴力 , 相 比较 其他 车友 的 油耗 要 大 一点 。 高速 路段 表现 : 高速 稳定 的 情况 下 行驶 , 百公里 可以 降到 4 个 左右 。	n n x c r v d n x v d r n uj n v a m x d n v x d a uj n f v x m c v m m m x	0 0 0 1 0 0 0 0 0 0
+最不满意	这款 车子 如果 跑 乡村 小路 的话 车内 的 颠簸 感 挺 强烈 的 , 底盘 较硬 。 后备箱 较 高 , 拿 东西 取 东西 都 不够 方便 。 车子 在 低速 的 时候 顿挫 感 感受 也 挺大 的 。	r n c v n n u s uj v vg d a uj x n a x n d a x v ns v ns d v a x n p d uj n v v v d a uj x	0 0 0 0 0 0 -1 -1 0 0
+最不满意	手枕 还是 太矮 了 对于 坐姿 靠 前 的 人 而言 还是 枕 不到 水杯 架 较 中间 凸起 较 高	n c a ul p n v f uj n c c n v n m d f v d a	0 -1 0 0 0 0 0 0 0 0
+动力	动力 方面 的话 就是说 我 是 用来 上下班 的 ! 也 不 走 山路 ! 也 不 拉 重货 ! 作为 我 来说 完全 够用 了 ! 就算 是 开起 空调 的 情况 也 是 够用 的 !	n n u c r v v v uj x d d v n x d d v n x v r u ad v ul x v v v n uj n d v v uj x	0 0 0 0 0 1 0 0 0 0
+最满意	底盘 调校 很 强 , 带来 强悍 的 驾控 感 。 外观 别具 格 , 线条 优美 独特 , 整车 运动感 十足 。	n n d a x v a uj j v x n n n x n a a x n n d x	1 0 0 0 0 0 1 0 0 0
+最不满意	因为 买 的 是 低 配车 , 感觉 配置 有点 低 , 不过 有 倒车影像 , 还 能 接受 , 不过 现在 国 6 的 车 感觉 增配 好多 , 好烦 啊 , 不过 国 6 车 优惠 的 确实 不 多 , 分 价钱 分货 嘛 , 都 是 能 接受 的 。	c v uj v a n x n v n a x c v n x d v v x c t n m uj n n v m x a zg x c n m n vn uj ad d m x v n n y x d v v v uj x	0 0 0 0 0 0 0 0 -1 0
+最不满意的点	减震 偏 硬 路上 的 小 颠簸 不能 很好 的 过滤 掉	v d a s uj n v v a uj v zg	0 0 0 0 0 0 0 -1 0 0
+操控	这点 我 很 满意 , 没有 感到 不 给 力 的 , 方向盘 指向 很 准确 , 很 灵敏 , 挂 档 也 有 吸入 感 。	mq r d v x v v d p n uj x n n zg a x zg nr x v n d v v v x	0 0 0 0 0 0 1 0 0 0
+性价比	目前 对 我 来说 十万 以内 , 这样 款车 没有 让 我 失望 , 该 有 的 配置 在 盒子 车 十万 加以 上 才能 出现 ! 车 联网 很 不错 , 很 给 力 , 车子 的 动力 不错 随叫随到 ! 也 没开 过 什么 豪车 ! 所以 动力 还是 很 满意 的 。 希望 奇瑞 厂家 多 听听 广大 车友 的 建议 ! 这样 奇粉 才 会 越来越 多 !	t p r u m f x r n v v r v x r v uj v p n zg m v f v v x zg nz zg a x d p n x n uj n a l x d v ug r n x c n c zg v uj x v nz n m v a n uj n x r n d v d m x	0 0 0 0 0 0 0 0 1 0
+最不满意	新车 刚 买 了 个 多月 , 公里 数 就 跑 了 1000 多 , 目前 来看 还 没有 啥 不 满意 的 地方 。	n d v ul q m x q m d v ul m m x t u d v r d v uj n x	0 0 0 0 0 0 0 0 0 0
+最满意	外形 , 话 说 都 和 雷克萨斯 相像 , 其实 我 觉得 不错 的 , 毕竟 它 的 价位 和 我 实际 花 的 价位 差别 还是 挺大 的 , 给 外形 满分 !	n x n v d c nr v x d r v a uj x d r uj n c r n v uj n d c a uj x p n d x	1 0 0 0 0 0 0 0 0 0
+最不满意	最 不 满意 的 就是 车内 充电 没有 能放 手机 的 地方 , 这个 要 改进 。 还 有点 就是 没有 点烟器	d d v uj d s v v v n uj n x r v v x d n d v n	0 0 0 0 0 0 0 -1 0 0
+最不满意	车 底盘 做工 粗糙 , 离合器 有点 高 , 车 中控台 上方 会 有 偶尔 的 异响 , 毕竟 国产车 通病	zg n v a x n n a x zg nt f v v d uj vn x d n n	0 0 0 0 0 0 0 0 -1 0
+最不满意	2019 款 的 车机 是 安卓 的 了 , 但是 说真的 , 还是 不怎么 快 , 之前 老款 的 车机 听说 还要 卡 , 我 估计 汽车 的 车机 不 手机 , 没 这么 顺畅 。	m n uj n v nr uj ul x c l x c l a x f n uj n v c n x r v n uj n d n x v r a x	0 0 0 0 0 -1 0 0 0 0
+性价	性价 是 选择 这款 的 原因 之 ! 优惠 大 !	n v v r uj n u x vn a x	0 0 0 0 0 0 0 0 1 0
+最不满意	后排 空间 偏 , 不 像 两米 轴距 该 有 的 空间 , 稍微 胖点 的 做 进去 稍 显 拥挤 , 矮 趴 的 风格 虽然 好看 , 但 内部 增添 了 压抑感 , 鱼 和 熊掌 不可 兼得 。 \ n 天窗 算不上 全景天窗 , 打开 没 那么 敞亮 , 还是 有些 压抑感 。	vn n a x d v m n r v uj n x d n uj v v d v v x a v uj n c v x c f v ul n x n c nr v v x x x n l n x v v r v x c r n x	0 1 0 0 0 0 0 -1 0 0
+内饰	大屏 , 皮质 包裹 , 整个 内饰 都 是 种 , 怎么 说 呢 , 就是 高贵 而 又 低调 的 感觉 , 内饰 上 搭配 很 合理 , 没有 突兀 的 设计 , 给 人种 豪华 高端 的 感觉 , 很多 小 细节 还是 很 让 人 欣慰 的 。	n x n v x b n d v q x r v y x d a c d v uj n x n f v zg vn x v v uj vn x p n a n uj n x m a n c d v n v uj x	0 1 0 0 0 0 0 0 0 0
+性价比	合资 保养 太贵 , 所以 果断 换成 国产车 , 艾瑞泽5 的 性价比 还是 非常 高 的 。	vn v nr x c d v n x n uj n c d a uj x	0 0 0 0 0 0 0 0 1 0
+内饰	内饰 还 可以 吧 , 这个 价位 算 很好 的 了 , 做工 也 不错 !	n d c y x r n v a uj ul x v d a x	0 1 0 0 0 0 0 0 1 0
+内饰	挺 好 的 , 也 没有 什么 反 人类 的 设计 , 按键 也 灵敏 。	d a uj x d v r zg n uj vn x n d nr x	0 1 0 0 0 0 0 0 0 0
+内饰	内饰 总的来说 还是 不错 , 触摸 的 空调 屏 算是 它 的 个 亮点 , * * 瞬间 提升 个 档 , 中控 屏 也 还是 有 那么 大 , 而且 软 包 材质 也 还是 用 得 比较 多 , 至少 没什么 塑料 感 , 其实 还有 个 就是 这 车 味道 不大 , 说明 环保 还是 做 的 不错	n c c a x v uj n n v r uj n n x x x t v m n x j ng d c v r a x c a v n d c p ud d m x d l n v x d v q d r zg n a x v j c v uj a	0 1 0 0 0 0 1 0 0 0
+操控	操控 不 知道 怎么 评价 , 也 没开 过 多少 车型 , 反正 感觉 打 多少 方向 , 车头 去 多少 , 个人感觉 还是 可以 的 。	v d v r n x d v ug m n x d n v m n x n v m x n c c uj x	0 0 0 0 0 0 1 0 0 0
+最不满意	油耗 有点 高 , 低档 有 刹车 变速器 有点 响声 , 油耗 现在 表显 7.5 实际 8 个油 吧 , 现在 油价 涨 了 加不起 了	n n a x b v n n n n x n t v m n m n y x t n v ul v ul	0 0 0 -1 0 0 0 -1 0 0
+操控	转向 轻盈 , 手感 很 好 , 高速 又 会 变沉 , 指 哪 打 哪 , 就是 车 有点 宽 , 刚 换车 的 时候 不 适应 = = , 过弯 侧 倾 esp 控制 得 很 好 , 点 都 不慌	v z x n d a x d d v v x v r v r x d zg n a x d v uj n d v x x x v v v n v ud d a x m d a	0 0 0 0 0 0 1 0 0 0
+舒适性	后排 舒适性 极好 , 空间 大 , 座椅 舒服 。 前排 座椅 除了 头枕 角度 感觉 不怎么 好 之外 , 剩下 的 都 不错 , 包裹 性 也 行 , 坐 着 软软 的 , 支撑 到位 , 挺 好 。	vn nr d x n a x n a x v n p n n n l a f x v uj d a x v n d v x v uz a uj x v v x d a x	0 1 1 0 0 0 0 1 0 0
+外观	外观 就是 两个 字 : 大气 ! ! ! 后部 看起来 也 是 两个 字 : 性感 ! ! ! 前脸 还是 两个 字 : 霸气 ! ! !	n d m n x n x x x f v d v m n x n x x x n c m n x n x x x	1 0 0 0 0 0 0 0 0 0
+外观	外观 非常 漂亮 , 看起来 非常 的 低调 沉稳 。 线条 柔顺 , 整体 造型 时尚 , 非常 上档次 , 开 在 路上 回头率 很 高 。 来 个 正面 侧面 也 很 好看	n d a x v d uj v a x n a x n n n x d b x v p s n d a x v q ad f d d v	1 0 0 0 0 0 0 0 0 0
+外观	买车 就是 冲 外观 去 的 , 这 两天 碰到 老爸 以前 的 同事 , 都 跑 来 问 , 这 车 很贵 吧 ! 我 说 裸 车 7.79 ! 哇 。 。 那 表情 ! 嘿嘿 !	n d v n v uj x r m v n f uj n x d v v v x r zg a y x r v ag n m x y x x r n x o x	1 0 0 0 0 0 0 0 1 0
+外观	帝豪 的 外观 也 是 出了名 的 漂亮 , 买 了 之后 还是 越 看越 好看 。	n uj n d v i uj a x v ul f c d v v x	1 0 0 0 0 0 0 0 0 0
+最不满意	动力 太弱 , 1.5 的 自吸 也 不 应该 拉不动 这 还 不到 1.3 顿 的 车 吧 ! 起步 还 赶不上 个 电动 公交车 , 还有 就是 车灯 , 换了 了 两次 了 ! 都 起雾 了 ! 本来 车灯 就 不亮 , 宽度 就 不够 , 全 靠 雾灯 补 光能 , 还 起 雾 。 希望 厂家 严格要求 下 灯厂	n a x m uj v d d v l r d v m q uj n y x d d d q n n x v d n x v ul m ul x d v ul x t n d a x n d v x a v n v n x d v n x v n l f n	-1 0 0 0 0 -1 0 0 0 0
+其它描述	走 在 路上 回头率 相当 的 高 , 买车 刚年 多点 , 最少 有 80 多 人 问起 这 车 多少钱 啊 , 怎么样 啊 这车	v p s n d uj n x n t m x d v m m n v r zg nr zg x r y r	0 0 0 0 0 0 0 0 0 0
+操控	感觉 车子 比较 好 开 , 指向 精准 , 个人 跑 山 的 时候 , 感觉 非常 爽 。	n n d a v x n n x n v n uj n x n d nr x	0 0 0 0 0 0 1 0 0 0
+内饰	内饰 的话 , 个人感觉 还是 很 有 档次 感 的 。	n u x n c d v n vg uj x	0 1 0 0 0 0 0 0 0 0
+最不满意	最 不 满意 就是 车 的 外观设计 比较 般 , 没有 什么 亮点 , 比较 中规中矩 的 那种 设计 风格 。	d d v d n uj n d u x v r n x d l uj r vn n x	-1 0 0 0 0 0 0 0 0 0
+最不满意	第批 车 , 没 啥 优惠 , 送 了 5000 块钱 商业 险 , 几次 保养 , 算是 变相 的 优惠 吧 , 油耗 略 高 , 到手 时候 油表 显示 十个 油 , 开 了 这么久 还 在 十个 徘徊 , 当初 是 谁 说 8 个油 就 差不多 的 。 车 有点 大 , 不好 停放 。	m n x d r vn x v ul m n n a x m v x v n uj vn y x n d a x d n n v m n x v ul r d p m v x t v r v m n d l uj x zg n a x d v x	0 0 0 -1 0 0 0 0 0 0
+最不满意	这 台车 我 没有 什么 不 满意 的 地方 , 因为 我 开 着 油耗 不 高 , 动力 还 可以 , 非 要说 点 不 满意 的 地方 的话 , 那 就是 排挡 杆 了 , 握 感 不是 很 好 。	r n r v r d v uj n x c r v uz n d a x n d c x h c m d v uj n u x r d v q ul x v v c d a x	0 0 0 1 0 1 -1 0 0 0
+油耗	个油 的 油耗 , 感觉 节油 技术 还 不错 。	n uj n x n n n d a x	0 0 0 1 0 0 0 0 0 0
+最满意	舒适性 必须 说 , 后排 座椅 非常 舒服 , 可以 感受 下 。 还有 就是 车头 短 , 视野 非常 开阔 。 ? ? ? ?	nr d v x vn n d a x c v f x v d n a x n d v x x x x x	0 0 0 0 0 0 0 1 0 0
+外观	买车 的 时候 就 看上 这车 的 外观 了 , 喜欢 , 很 时尚	n uj n d v r uj n ul x v x zg n	1 0 0 0 0 0 0 0 0 0
+最满意	车辆 乘坐 舒适 , 座位 包裹 性 很 好 。 较 安静 , 80 迈 的 速度 , 就 8 能 听到 风声 , 这点 挺 满意 , 目前 跑 了 2400 公里 油耗 8.9 , 完全 超乎 我 的 想象 。	n v a x n v n d a x zg nr x m v uj n x d m v v n x mq d v x t v ul m q n m x ad v r uj n x	0 1 0 1 0 0 0 1 0 0
+最不满意	排胎 噪 有点 大 , 不过 可能 是 轮胎 成本 的 问题 。 可以 理解 !	n n n a x c v v n n uj n x c v x	0 0 0 0 0 0 0 0 0 0
+外观	外观 的话 个人 比较 喜欢 , 不过 有 朋友 说 像 块 砖头 ! ! 无语 。 感觉 看起来 还是 很 简约 大气 的 。	n u n d v x c v n v v q n x x nz x n v c zg d n uj x	1 0 0 0 0 0 0 0 0 0
+性价比	同 级别 性价比 最好 的 , 我 也 是 对比 了 好 几款 车 才 选择 的 虎子	p n n a uj x r d v v ul a m n d v uj n	0 0 0 0 0 0 0 0 1 0
+最不满意	这个 车 因为 比较 重 的 原因 吧 动力 不是 特别 快 有点 肉 , 不过 还好 , 不是 特别 影响 , 毕竟 人无完人 , 车 也 无 完车 。	r zg c d a uj n y n c d a n n x c v x c d vn x d l x n d v v x	0 0 0 0 0 0 0 0 0 0
+最不满意	内饰 比较 粗糙 , 功能 虽然 不少 , 但是 都 不是 很 精细 。	n d a x n c d x c d c zg a x	0 -1 0 0 0 0 0 0 0 0
+最不满意	就是 近光灯 亮度 感觉 暗 了 点 , 后备箱 了 点 , 车载 导航 及 手机互联 功能 有点 鸡肋 , 后排 要是 能加 个 杯架 扶手 或 头枕 效果 更佳 !	d n n n v ul m x n ul m x n v c n n n n x vn c v q n v c n n v x	0 0 0 0 0 0 0 -1 -1 0
